@@ -23,6 +23,7 @@ Tech Stack
 
 Endpoints
 Backend (server) : https://screen-mirror-server.onrender.com
+
 Frontend (UI)    : https://screenmirrorintt.netlify.app/
 
 Backpressure Strategy
